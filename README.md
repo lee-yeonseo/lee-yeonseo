@@ -37,7 +37,6 @@
 ## 🌐 Contact
 
 - 📧 **Email**: [dlth010@naver.com](mailto:dlth010@naver.com) | [dlth010@g.hongik.ac.kr](mailto:dlth010@g.hongik.ac.kr)
-- 💻 **Portfolio**: [https://www.notion.so/iyy-_-omii-ecb97722fb3b40bf98862cf4fd206144](https://www.notion.so/iyy-_-omii-ecb97722fb3b40bf98862cf4fd206144)
 - 📷 **Instagram**: [@iyy._.ommi](https://instagram.com/iyy._.ommi)
 
 ---
