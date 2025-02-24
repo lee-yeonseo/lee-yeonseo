@@ -34,12 +34,5 @@
 
 ---
 
-## 🌐 Contact
-
-- 📧 **Email**: [dlth010@naver.com](mailto:dlth010@naver.com) | [dlth010@g.hongik.ac.kr](mailto:dlth010@g.hongik.ac.kr)
-- 📷 **Instagram**: [@iyy._.ommi](https://instagram.com/iyy._.ommi)
-
----
-
 
 "**끊임없이 배우고 도전하며 성장하겠습니다. 세상에 더 나은 가치를 제공하는 개발자가 되고 싶습니다.**" 😊
