@@ -1,55 +1,50 @@
-# Yeonseo Lee (이연서) 🌟
+# 이연서 (Yeonseo Lee)
 
-**Hi there! I'm Yeonseo Lee**,  
-프론트엔드부터 백엔드, 클라우드까지 폭넓게 탐구하며 성장 중인 개발자입니다.  
-아직은 초보지만, 끊임없이 배우고 도전하며 성장하고 있습니다.
-사용자에게 더 나은 경험을 제공하는 것을 목표로, 지속적으로 배우고 도전하고 있습니다.
+AI가 물리적 세계와 상호작용하며 인간에게 실질적인 도움을 주는 **Embodied AI**에 깊은 관심을 가지고 있습니다.
+이를 위해 멀티모달 AI, 특히 **Vision-Language 모델링**과 **로보틱스** 분야를 탐구하며, 탄탄한 소프트웨어 공학 지식을 바탕으로 아이디어를 현실로 구현하는 예비 연구자입니다.
 
 ---
 
-## 🚀 Skills & Learning
+## 🔭 Research Interests & Core Skills
 
-- 💻 **주로 사용하는 기술**: `React`, `TypeScript`, `Next`
-- 🌱 **현재 학습 중**: `Spring Boot`, `AWS`, `AI`, `CS 기초`
-- 🎯 **목표**: 사용자 중심의 UI/UX와 안정적인 서버 및 클라우드 환경까지 고려하는 개발자
+-   **Research Interests**: `Multimodal Learning`, `Vision-Language Modeling`, `Embodied AI`, `Robotics`, `Human-Robot Interaction`
+
+-   **AI / ML**: `PyTorch`, `TensorFlow`, `NumPy`, `Scikit-learn`
+-   **Dev & Infra**: `Python`, `Java`, `Docker`, `AWS (EC2, S3)`, `Git`
+-   **Web / Application**: `Spring Boot`, `React`, `TypeScript`, `Next.js`
 
 ---
 
-## 🛠️ Projects
+## 📄 Experience & Projects
+
+### 🔬 KIST, AI·로봇연구소 (2025.06 ~ 2025.08)
+> **학부 연구생 (Undergraduate Research Intern)**
+> - 로봇 수거 시스템의 비전 모델 학습을 위한 데이터셋 구축 및 실험 진행 (`Grounding DINO`, `CLIP` 등 활용)
+> - 재현 가능한 연구를 위한 `Docker` 기반 모델 평가 환경 구축
+
+### 🧠 Prometheus AI Club (2025.03 ~ 현재)
+> **Research Member**
+> - `ViT`, `CLIP`, `BLIP` 등 주요 VLM 모델 스터디 및 PyTorch 기반 구현
+> - `NumPy`를 이용한 MLP 밑바닥부터 구현, 역전파 및 최적화 원리 심층 이해
+
+### 🛠️ me-mory (2025.05 ~ 2025.07)
+> **Backend Lead**
+> - `Spring Boot`와 `Docker`를 활용한 여행 기록 앱 서버 개발 및 AWS 배포
+> - RESTful API 설계 및 시스템 안정성 확보
 
 ### 🧳 여행가방 (2024.07 ~ 2025.01)
-> TAVE 동아리 - 웹 프론트엔드 개발자로 참여  
-- 사용자의 여행 계획에 따라 체크리스트 자동 생성  
-- 여행지 맞춤 관광지·맛집 추천 기능 구현  
-- `React`기반 UI 개발
+> **Frontend Developer**
+> - `React`, `TypeScript` 기반 여행 계획 및 추천 웹 애플리케이션 UI/UX 개발
 
 ### 🚀 META:FOR 해커톤 (2024.11)
-> 프론트엔드 개발자로 참가  
-- 직장인을 위한 의료 정보 서비스 개발  
-- `Next.js`를 활용한 간결하고 직관적인 UI 구현
+> **Frontend Developer**
+> - `Next.js`를 활용한 직장인 대상 의료 정보 서비스 프로토타입 UI 개발
 
 ---
 
-## 📌 Activities
+## 🎓 Education
 
-### 🌌 B612 (2023.08 ~ 2023.12)
-- 개발 입문, CS 기초, 다양한 개발 분야 체험
+-   **Hongik University**, B.S. in Computer Engineering (2023.03 ~ 2026.08 예정)
 
-### 🌟 TAVE (2024.07 ~ 현재)
-- **2024.07 ~ 2025.01**: 프론트엔드 개발자  
-- **2025.03 ~ 현재**: 백엔드 개발자 (Spring Boot 기반)
-
-### ☁️ ACC Hongik (2025.03 ~ 현재)
-- `AWS` 기반 인프라 실습  
-- EC2, S3, RDS, VPC, Blue/Green 배포 실습 진행 중
-
-### 🧠 Prometheus (2025.03 ~ 현재)
-- `AI` 기초 및 심화 학습  
-- 머신러닝/딥러닝 모델 구현 실습 진행 중
-
----
-
-## ✨ One More Thing
-
-> “**끊임없이 배우고 도전하며 성장하겠습니다.  
-> 세상에 더 나은 가치를 제공하는 개발자가 되고 싶습니다.**” 😊
+> "소프트웨어 시스템을 넘어, 물리적 세계와 상호작용하는 지능을 연구하고 구현하여
+> 사람들의 삶에 실질적인 가치를 더하고 싶습니다."
