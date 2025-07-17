@@ -27,7 +27,7 @@ AI가 물리적 세계와 상호작용하며 인간에게 실질적인 도움을
 > - `ViT`, `CLIP`, `BLIP` 등 주요 VLM 모델 스터디 및 PyTorch 기반 구현
 > - `NumPy`를 이용한 MLP 밑바닥부터 구현, 역전파 및 최적화 원리 심층 이해
 
-### 🛠me-mory (2025.05 ~ 2025.07)
+### me-mory (2025.05 ~ 2025.07)
 > **Backend Lead**
 > - `Spring Boot`와 `Docker`를 활용한 여행 기록 앱 서버 개발 및 AWS 배포
 > - RESTful API 설계 및 시스템 안정성 확보
