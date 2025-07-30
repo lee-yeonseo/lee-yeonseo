@@ -1,8 +1,5 @@
 # 이연서 (Yeonseo Lee)
 
-AI가 물리적 세계와 상호작용하며 인간에게 실질적인 도움을 주는 **Embodied AI**에 깊은 관심을 가지고 있습니다.
-이를 위해 멀티모달 AI, 특히 **Vision-Language 모델링**과 **로보틱스** 분야를 탐구하며, 탄탄한 소프트웨어 공학 지식을 바탕으로 아이디어를 현실로 구현하는 예비 연구자입니다.
-
 ---
 
 ## 🔭 Research Interests & Core Skills
@@ -39,12 +36,3 @@ AI가 물리적 세계와 상호작용하며 인간에게 실질적인 도움을
 ### META:FOR 해커톤 (2024.11)
 > **Frontend Developer**
 > - `Next.js`를 활용한 직장인 대상 의료 정보 서비스 프로토타입 UI 개발
-
----
-
-## 🎓 Education
-
--   **Hongik University**, B.S. in Computer Engineering (2023.03 ~ 2026.08 예정)
-
-> "소프트웨어 시스템을 넘어, 물리적 세계와 상호작용하는 지능을 연구하고 구현하여
-> 사람들의 삶에 실질적인 가치를 더하고 싶습니다."
